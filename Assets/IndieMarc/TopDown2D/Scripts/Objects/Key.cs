@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 /// <summary>
 /// Key script
 /// Author: Indie Marc (Marc-Antoine Desbiens)
@@ -40,6 +40,17 @@ namespace IndieMarc.TopDown
             if (collision.gameObject.GetComponent<PlayerCharacter>())
             {
                 TakeKey();
+                //SceneManager.LoadScene("RB_Death");
+            }
+            if (collision.gameObject.tag == "player1")
+            {
+                //TakeKey();
+                SceneManager.LoadScene("RB_Death");
+            }
+            if (collision.gameObject.tag == "player2")
+            {
+                //TakeKey();
+                SceneManager.LoadScene("intro_CutScene");
             }
         }
     }

@@ -42,6 +42,7 @@ namespace IndieMarc.TopDown
         public float hp_max = 3f;
         public bool invulnerable = false;
         public GameObject[] loot_prefab;
+		public float timeBeforeDead = 1f;
 
         [Header("Wander")]
         public float wander_range = 5f;
@@ -446,7 +447,7 @@ namespace IndieMarc.TopDown
             if (onDeath != null)
                 onDeath.Invoke();
 
-            Destroy(gameObject, 1f);
+            Destroy(gameObject, timeBeforeDead);
 
 			for (int i = 0; i < loot_prefab.Length; i++)
             if (loot_prefab[i] != null)

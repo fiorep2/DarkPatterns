@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 7280ddc979bce4d239d3f138e52eba08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7572670532417177248
+    second: Yvan-attack_0
+  - first:
+      213: -4969612420181933663
+    second: Yvan-attack_1
+  - first:
+      213: -8466415083918783699
+    second: Yvan-attack_2
+  - first:
+      213: -3440860276190772460
+    second: Yvan-attack_3
+  - first:
+      213: -1936613311441684227
+    second: Yvan-attack_4
+  - first:
+      213: -1937142794500963379
+    second: Yvan-attack_5
+  - first:
+      213: -1597227312016372025
+    second: Yvan-attack_6
+  - first:
+      213: 7680755415722502356
+    second: Yvan-attack_7
+  - first:
+      213: -553820794188662469
+    second: Yvan-attack_8
+  - first:
+      213: -3740008771076832250
+    second: Yvan-attack_9
+  - first:
+      213: -8463450256196649132
+    second: Yvan-attack_10
+  - first:
+      213: -9045276731710502631
+    second: Yvan-attack_11
+  - first:
+      213: 7745927605347553937
+    second: Yvan-attack_12
+  - first:
+      213: -4188866670487702075
+    second: Yvan-attack_13
+  - first:
+      213: 8247542777809588156
+    second: Yvan-attack_14
+  - first:
+      213: -4053474471332634397
+    second: Yvan-attack_15
+  - first:
+      213: -8827814262170325072
+    second: Yvan-attack_16
+  - first:
+      213: -5368999414485826901
+    second: Yvan-attack_17
+  - first:
+      213: -6732351528766517129
+    second: Yvan-attack_18
+  - first:
+      213: -419576887996259257
+    second: Yvan-attack_19
+  - first:
+      213: -3988519715679577938
+    second: Yvan-attack_20
+  - first:
+      213: -7390817903334084506
+    second: Yvan-attack_21
+  - first:
+      213: 8763696887441083491
+    second: Yvan-attack_22
+  - first:
+      213: 8467891648638882404
+    second: Yvan-attack_23
+  - first:
+      213: 7332250810816814503
+    second: Yvan-attack_24
+  - first:
+      213: -6030700946310874057
+    second: Yvan-attack_25
+  - first:
+      213: -5389867997501365942
+    second: Yvan-attack_26
+  - first:
+      213: 5363229252992662963
+    second: Yvan-attack_27
+  - first:
+      213: -5197383653669845681
+    second: Yvan-attack_28
+  - first:
+      213: 347034601840532058
+    second: Yvan-attack_29
+  - first:
+      213: 5187617198051375089
+    second: Yvan-attack_30
+  - first:
+      213: 1649276332200304873
+    second: Yvan-attack_31
+  - first:
+      213: 2141361276024699004
+    second: Yvan-attack_32
+  - first:
+      213: -7292608080412135844
+    second: Yvan-attack_33
+  - first:
+      213: 1694148044638651537
+    second: Yvan-attack_34
+  - first:
+      213: 1927333738486358760
+    second: Yvan-attack_35
+  - first:
+      213: -339129000370108360
+    second: Yvan-attack_36
+  - first:
+      213: -7359662915299257798
+    second: Yvan-attack_37
+  - first:
+      213: -7304888735433077758
+    second: Yvan-attack_38
+  - first:
+      213: 4072907447221774285
+    second: Yvan-attack_39
+  - first:
+      213: -8765104863160826652
+    second: Yvan-attack_40
+  - first:
+      213: -3646606174047446989
+    second: Yvan-attack_41
+  - first:
+      213: 4438293537143141988
+    second: Yvan-attack_42
+  - first:
+      213: -455975572958505788
+    second: Yvan-attack_43
+  - first:
+      213: -727952345266848692
+    second: Yvan-attack_44
+  - first:
+      213: -4512544385717251277
+    second: Yvan-attack_45
+  - first:
+      213: -7173655664958054326
+    second: Yvan-attack_46
+  - first:
+      213: 6097805671066983963
+    second: Yvan-attack_47
+  - first:
+      213: 3860342089760318441
+    second: Yvan-attack_48
+  - first:
+      213: -6263897132013313209
+    second: Yvan-attack_49
+  - first:
+      213: 8563280998845560504
+    second: Yvan-attack_50
+  - first:
+      213: -4472345122422790027
+    second: Yvan-attack_51
+  - first:
+      213: 570702241679614815
+    second: Yvan-attack_52
+  - first:
+      213: -2484332438253448670
+    second: Yvan-attack_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yvan-attack_0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 11112
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64bcd3ab7871960800000000000000
+      internalID: 7572670532417177248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_1
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 11118
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1cfaf75d3680bb0800000000000000
+      internalID: -4969612420181933663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_2
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 11124
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b03029650418a80800000000000000
+      internalID: -8466415083918783699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_3
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 11124
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41385eb2fcb9f30d0800000000000000
+      internalID: -3440860276190772460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_4
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 11124
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b9303474cf15e0800000000000000
+      internalID: -1936613311441684227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_5
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 11124
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3009e44e2ed15e0800000000000000
+      internalID: -1937142794500963379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_6
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 11118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce46b1e83285d9e0800000000000000
+      internalID: -1597227312016372025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 9612
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82cc03b56879a60800000000000000
+      internalID: 7680755415722502356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_8
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 9618
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39f8250cee6058f0800000000000000
+      internalID: -553820794188662469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_9
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 9624
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ce1f86d1d81cc0800000000000000
+      internalID: -3740008771076832250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_10
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 9618
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb53155d8cb8a80800000000000000
+      internalID: -8463450256196649132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_11
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 9612
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9190a478cb8b87280800000000000000
+      internalID: -9045276731710502631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_12
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 9618
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19212ac0e101f7b60800000000000000
+      internalID: 7745927605347553937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_13
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 9624
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57b1ee4f72ed5c0800000000000000
+      internalID: -4188866670487702075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 8118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfcd258578257270800000000000000
+      internalID: 8247542777809588156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_15
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 8112
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0aa1ec17a2fb7c0800000000000000
+      internalID: -4053474471332634397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_16
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 8118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe53843bd4d7580800000000000000
+      internalID: -8827814262170325072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_17
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 8124
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ca4c8a7b7d75b0800000000000000
+      internalID: -5368999414485826901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_18
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 8118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77050d044f1e192a0800000000000000
+      internalID: -6732351528766517129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_19
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 8112
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e40b1b0d5d2af0800000000000000
+      internalID: -419576887996259257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_20
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 8118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d64f537ee5a8c0800000000000000
+      internalID: -3988519715679577938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6624
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660bc20764a8e6990800000000000000
+      internalID: -7390817903334084506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_22
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 6618
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4f1713e7ee9970800000000000000
+      internalID: 8763696887441083491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_23
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 6595
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621e91f69ef38570800000000000000
+      internalID: 8467891648638882404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_24
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 6618
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5ec6b34361c560800000000000000
+      internalID: 7332250810816814503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_25
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 6612
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c378cf075ae4ca0800000000000000
+      internalID: -6030700946310874057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_26
+      rect:
+        serializedVersion: 2
+        x: 8124
+        y: 6601
+        width: 252
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416faeec975335b0800000000000000
+      internalID: -5389867997501365942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_27
+      rect:
+        serializedVersion: 2
+        x: 9026
+        y: 6595
+        width: 1448
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7c9907940e6a40800000000000000
+      internalID: 5363229252992662963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5101
+        width: 1448
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4546999a1f2fd7b0800000000000000
+      internalID: -5197383653669845681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_29
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 5112
+        width: 1458
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5977b12ae0d400800000000000000
+      internalID: 347034601840532058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_30
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 5101
+        width: 1448
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73f804b5e1ef740800000000000000
+      internalID: 5187617198051375089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_31
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 4714
+        width: 252
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0224df51863e610800000000000000
+      internalID: 1649276332200304873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_32
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 4714
+        width: 252
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ba313cb4a7bd10800000000000000
+      internalID: 2141361276024699004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_33
+      rect:
+        serializedVersion: 2
+        x: 8124
+        y: 4714
+        width: 252
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e24e8b6937bca90800000000000000
+      internalID: -7292608080412135844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_34
+      rect:
+        serializedVersion: 2
+        x: 9624
+        y: 4714
+        width: 252
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940c9daba2d28710800000000000000
+      internalID: 1694148044638651537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3220
+        width: 1295
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ea1ed2d34fba10800000000000000
+      internalID: 1927333738486358760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_36
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3232
+        width: 1294
+        height: 1277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83808ef88fb2b4bf0800000000000000
+      internalID: -339129000370108360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_37
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3243
+        width: 1295
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d8fa52993dd990800000000000000
+      internalID: -7359662915299257798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_38
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 3232
+        width: 1294
+        height: 1277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c42c8e562df9a90800000000000000
+      internalID: -7304888735433077758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_39
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 3612
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc762ba7ebfd58830800000000000000
+      internalID: 4072907447221774285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_40
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 3618
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4004401971c5680800000000000000
+      internalID: -8765104863160826652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_41
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 3624
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d7285107a46dc0800000000000000
+      internalID: -3646606174047446989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_42
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466345af47cf79d30800000000000000
+      internalID: 4438293537143141988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_43
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2112
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c49d8bd1ac0ca9f0800000000000000
+      internalID: -455975572958505788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_44
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 2118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf4f6e23bc5e5f0800000000000000
+      internalID: -727952345266848692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_45
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2124
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d3282ac83061c0800000000000000
+      internalID: -4512544385717251277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_46
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 2118
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e43d2e2e027c90800000000000000
+      internalID: -7173655664958054326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_47
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 2112
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e5f4543f1cf9450800000000000000
+      internalID: 6097805671066983963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_48
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 2112
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e327ab7da0b29530800000000000000
+      internalID: 3860342089760318441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_49
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 618
+        width: 228
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74322c8feba2219a0800000000000000
+      internalID: -6263897132013313209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_50
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 624
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ba00c2b2e6d670800000000000000
+      internalID: 8563280998845560504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_51
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 618
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e9018ec90fe1c0800000000000000
+      internalID: -4472345122422790027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_52
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 612
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5325d34aaa8be700800000000000000
+      internalID: 570702241679614815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yvan-attack_53
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 618
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2225ce95fc0e58dd0800000000000000
+      internalID: -2484332438253448670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

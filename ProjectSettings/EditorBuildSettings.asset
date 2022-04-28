@@ -6,9 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/MainMenu/MainMenu.unity
+    guid: 13aa1bca1ce694dffb14c1753d9511b1
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/Tutorial/tut_1.unity
+    guid: 2fa74ee0e99e643b89b3fc1f48188258
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/Tutorial/Tutorial.unity
+    guid: 4b1a6e7dbf7744d86af10aefd1cf158f
+  - enabled: 1
+    path: Assets/My Assets/Scenes/MAXWELL/fakeX's/Fakex.unity
+    guid: e1602851bbce04bc6b6dc5cf1c9d34d5
+  - enabled: 0
     path: Assets/IndieMarc/TopDown2D/Scenes/Level1.unity
     guid: 8f6c3e5a4f044c247b93ab3251b795af
-  - enabled: 1
+  - enabled: 0
     path: Assets/IndieMarc/TopDown2D/Scenes/Level2.unity
     guid: e40da87e4aa3ba94b82756bf59b3583a
   - enabled: 1
@@ -17,10 +29,58 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/IndieMarc/TopDown2D/Scenes/Load.unity
     guid: a673df5a51556d24997d0f761c4aa343
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/My Assets/Scenes/Hub World.unity
-    guid: 0c4a6be3d1ee147e599bb8ed4fe551d0
+    path: Assets/My Assets/Scenes/popfolder/pop fight.unity
+    guid: 6e5f4fc39cb234f6eba96c40d7a569e6
   - enabled: 1
-    path: Assets/My Assets/Scenes/Fakex.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CUTCENE/intro_CutScene.unity
+    guid: 874ffc6547a994b0cbe0fd6890fd0a31
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CUTCENE/CUTSCENE_1.unity
+    guid: e4dffc25bf276474a8402145d8e88130
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/Conversation_1.unity
+    guid: 91139a40911cf43d081f07b6774267dd
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/Conversation_2.unity
+    guid: 8ef1c264e4bef469ca553c82a0aee42d
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/Conversation_3.unity
+    guid: d8263edd512264fe6a0581a1c22b7b7a
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/contract/contract.unity
+    guid: 6fb391f9ec39b4cd28bf4431abeec04f
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/LEVEL1/Roach_Maze.unity
+    guid: 9a9692125a5cb4bc8a256e02ab8dab8a
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/Conversation_4.unity
+    guid: c0697ac5f236045db8f9de2d0d3c5f3a
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/roach_motel_boss/roach_boss.unity
+    guid: 91f0af2eca5204f18a5b657c0e844bc2
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/roach_motel_boss/RB_Death.unity
+    guid: 46e6b330aeff84cf2a9639dd9fa42fda
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/RoachMotel/CONVERSATION/roach_motel_boss/RB_cutscene.unity
+    guid: 24e6e007c73074936811e143831ced58
+  - enabled: 1
+    path: Assets/My Assets/Scenes/PAULINA/Load.unity
+    guid: 4f730acb258d4463c92ed3a8b139383f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/My Assets/Scenes/MAXWELL/Yvan/Final Level.unity
+    guid: 2787405bc6c1e47fca0636b13c4d785d
+  - enabled: 1
+    path: Assets/My Assets/Scenes/MAXWELL/Yvan/NavyBoss.unity
+    guid: b5f87166a986747d5a728a19712a6df2
+  - enabled: 1
+    path: Assets/ending.unity
+    guid: 10be705c2d52145feace7041b2e0db29
   m_configObjects: {}

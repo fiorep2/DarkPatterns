@@ -35,7 +35,7 @@ namespace IndieMarc.TopDown
             {
                 if (animator != null)
                 {
-                    animator.SetBool("Move", enemy.IsMoving());
+                   // animator.SetBool("Move", enemy.IsMoving());
                 }
 
                 //Hit flashing
@@ -53,6 +53,7 @@ namespace IndieMarc.TopDown
         {
             if (!enemy.IsDead())
                 flash_fx_timer = 1f;
+				animator.SetTrigger("Hurt");
         }
 
         private void OnDeath()
